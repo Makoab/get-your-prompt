@@ -28,13 +28,7 @@ The extension takes your highlighted text and sends it to the Gemini API with a 
 > `explain how a black hole works`
 
 **Enhanced Prompt (Example):**
-> `Create a detailed yet easy-to-understand explanation of how a black hole is formed and its fundamental properties. Structure the explanation for an audience with a basic understanding of physics. Please cover the following key points:
-> 1.  **Stellar Collapse:** How a massive star dies and leads to a singularity.
-> 2.  **Event Horizon:** Define what the event horizon is and why nothing can escape from it.
-> 3.  **Gravitational Pull:** Explain the concept of extreme gravity and its effect on spacetime.
-> 4.  **Anatomy of a Black Hole:** Briefly describe the singularity and the accretion disk.
-> 
-> The desired output should be approximately 3-4 paragraphs long.`
+> `Generate a concise, yet informative explanation of how black holes work, suitable for a scientifically literate but non-expert audience (e.g., advanced undergraduate students).  Maintain a formal and objective tone, avoiding jargon where possible and providing clear, simple analogies where appropriate.  The explanation should focus on the formation of black holes from stellar collapse, the properties of the event horizon and singularity, and the effects of black holes on surrounding matter and spacetime.  The explanation should be structured as a numbered list with at least five points, each point expanding on a key aspect of black hole physics.  Include visual descriptions where appropriate, but avoid complex mathematical equations or highly technical astrophysical terms. The explanation should specifically avoid discussing theoretical concepts like wormholes or the information paradox.  The output should be approximately 300-400 words in length.`
 
 ## 🚀 Installation and Setup
 
@@ -89,7 +83,7 @@ The extension is now ready to use!
 
 ## 📄 License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the CC BY-NC-ND 4.0 License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
