@@ -40,7 +40,7 @@ Click the green `<> Code` button on this repository's main page and select **Dow
 
 Alternatively, if you have Git installed, you can clone the repository:
 ```bash
-git clone https://github.com/your-username/your-repository-name.git
+git clone https://github.com/Makoab/get-your-prompt.git
 ```
 
 ### 2. Install the Extension in Your Browser
