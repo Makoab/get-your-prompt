@@ -7,7 +7,8 @@ Transform any selected text into a well-structured, detailed, and effective prom
 <br>
 
 
-*(Recommendation: Record a short GIF showing the select -> right-click -> "Get Your Prompt" -> modal workflow and replace the link above.)*
+*<img width="800" height="405" alt="image" src="https://github.com/user-attachments/assets/cf8b1790-5d74-40c8-9852-bf8e591ef701" />
+*
 
 ---
 
