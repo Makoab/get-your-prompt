@@ -1,4 +1,4 @@
-# AI Prompt Enhancer (Browser Extension)
+# GET YOUR Prompt (Browser Extension)
 
 ![Powered by Gemini](https://img.shields.io/badge/Powered%20by-Gemini%20AI-4285F4?style=for-the-badge)
 
