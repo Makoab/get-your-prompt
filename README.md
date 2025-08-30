@@ -1,4 +1,4 @@
-# GET YOUR Prompt (Browser Extension)
+# GET YOUR PROMPT (Browser Extension)
 
 ![Powered by Gemini](https://img.shields.io/badge/Powered%20by-Gemini%20AI-4285F4?style=for-the-badge)
 
